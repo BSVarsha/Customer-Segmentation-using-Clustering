@@ -186,6 +186,14 @@ http://127.0.0.1:5000
 Developed as a Major Project for Machine Learning and Web Development.
 
 ---
+## Screenshots
+# output 1
+![output 1](output1.png.png)
+
+# output 2
+![output 2](output2.png.png)
+
+---
 
 ## 📄 License
 
