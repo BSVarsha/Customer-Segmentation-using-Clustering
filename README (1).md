@@ -193,6 +193,15 @@ Developed as a Major Project for Machine Learning and Web Development.
 # output 2
 ![output 2](output2.png.png)
 
+# output 3
+![output 3](output3.png.png)
+
+# output 4
+![output 4](output4.png.png)
+
+# output 5
+![output 5](output5.png.png)
+
 ---
 
 ## 📄 License
